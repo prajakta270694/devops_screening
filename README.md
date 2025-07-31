@@ -20,7 +20,7 @@ CDN for Data Availability with Low Latency :
 
 To serve archived data quickly, integrate Azure CDN with Blob Storage. Frequently accessed archived records are cached, ensuring retrieval in seconds without repeated storage reads.
 
-I have used ChatGPT to correct my solution from all the perspective. Given below conversation link for the reference :
+I have used ChatGPT to correct my solution from all the perspective. Given below is the conversation link for the reference :
 https://chatgpt.com/share/688b546c-19f0-8003-91ec-896f33c2247c
 
 
