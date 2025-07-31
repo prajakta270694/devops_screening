@@ -4,4 +4,4 @@ As per the senario provided, you have a system which has data older than 2 month
 
 Please find below solution to reduce the cost without affecting existing data.
 
-<img width="798" height="380" alt="image" src="https://github.com/user-attachments/assets/dceb55f6-9ca9-415d-9d1b-4116957fd3b6" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/dceb55f6-9ca9-415d-9d1b-4116957fd3b6" />
