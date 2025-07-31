@@ -14,9 +14,10 @@ Explanation :
 
 Hot and Cool tier :
 Hot tier is used when the data is live and used very frequently. In this, the data storage cost is high but access cost is low.
-If we are not using data freqently then, we can move it to the Cool tier, as in the cool tier the storage cost is low and access cost is high.
+And, if we are not using data freqently then, we can move it to the Cool tier, as in the cool tier the storage cost is low and access cost is high.
 
 CDN for Data Availability with Low Latency :
+
 To serve archived data quickly, integrate Azure CDN with Blob Storage. Frequently accessed archived records are cached, ensuring retrieval in seconds without repeated storage reads.
 
 I have used ChatGPT to correct my solution from all the perspective. Given below conversation link for the reference :
